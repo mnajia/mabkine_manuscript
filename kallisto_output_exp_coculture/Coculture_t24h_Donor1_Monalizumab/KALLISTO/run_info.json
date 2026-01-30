@@ -1,0 +1,13 @@
+{
+	"n_targets": 41971,
+	"n_bootstraps": 0,
+	"n_processed": 21330268,
+	"n_pseudoaligned": 6041050,
+	"n_unique": 3534996,
+	"p_pseudoaligned": 28.3,
+	"p_unique": 16.6,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Fri Dec 12 22:24:09 2025",
+	"call": "kallisto quant -i /broad/blainey_lab/Mo/exps/20251010_MN_ACS_NZ_SS_novaseq/kallisto_custom_index/kallisto_HER2_CAR_custom_index.idx -o /broad/hptmp/mnajia/geo_mabkine/kallisto_custom_output/Coculture_t24h_Donor1_Monalizumab/KALLISTO /broad/hptmp/mnajia/geo_mabkine/RNAseq_Coculture/Coculture_t24h_Donor1_Monalizumab_R1.fastq.gz /broad/hptmp/mnajia/geo_mabkine/RNAseq_Coculture/Coculture_t24h_Donor1_Monalizumab_R2.fastq.gz"
+}

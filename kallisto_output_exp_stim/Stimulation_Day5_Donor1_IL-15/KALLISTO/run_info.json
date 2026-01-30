@@ -1,0 +1,13 @@
+{
+	"n_targets": 41970,
+	"n_bootstraps": 0,
+	"n_processed": 25298117,
+	"n_pseudoaligned": 11679864,
+	"n_unique": 7365068,
+	"p_pseudoaligned": 46.2,
+	"p_unique": 29.1,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Fri Dec 12 22:23:43 2025",
+	"call": "kallisto quant -i /broad/blainey_lab/Mo/genomes/kallisto_index_hg19/kallisto_index_hg19.idx -o /broad/hptmp/mnajia/geo_mabkine/kallisto_custom_output/Stimulation_Day5_Donor1_IL-15/KALLISTO /broad/hptmp/mnajia/geo_mabkine/RNAseq_Stimulation/Stimulation_Day5_Donor1_IL-15_R1.fastq.gz /broad/hptmp/mnajia/geo_mabkine/RNAseq_Stimulation/Stimulation_Day5_Donor1_IL-15_R2.fastq.gz"
+}
