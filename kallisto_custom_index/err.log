@@ -1,0 +1,10 @@
+
+[build] loading fasta file /broad/blainey_lab/Mo/exps/20251010_MN_ACS_NZ_SS_novaseq/kallisto_custom_index/hg19.annot.cdna.HER2.CAR.custom
+[build] k-mer length: 31
+[build] warning: replaced 115364 non-ACGUT characters in the input sequence
+        with pseudorandom nucleotides
+[build] counting k-mers ... done.
+[build] building target de Bruijn graph ...  done 
+[build] creating equivalence classes ...  done
+[build] target de Bruijn graph has 249646 contigs and contains 68420974 k-mers 
+

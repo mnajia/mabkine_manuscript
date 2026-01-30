@@ -1,0 +1,4 @@
+kallisto_HER2_CAR_custom_index.idx filter=lfs diff=lfs merge=lfs -text
+kallisto_index_hg19.idx filter=lfs diff=lfs merge=lfs -text
+hg19.annot.cdna filter=lfs diff=lfs merge=lfs -text
+hg19.annot.cdna.HER2.CAR.custom filter=lfs diff=lfs merge=lfs -text

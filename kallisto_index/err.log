@@ -1,0 +1,10 @@
+
+[build] loading fasta file /broad/blainey_lab/Mo/genomes/hg19.annot.cdna
+[build] k-mer length: 31
+[build] warning: replaced 115364 non-ACGUT characters in the input sequence
+        with pseudorandom nucleotides
+[build] counting k-mers ... done.
+[build] building target de Bruijn graph ...  done 
+[build] creating equivalence classes ...  done
+[build] target de Bruijn graph has 249645 contigs and contains 68418832 k-mers 
+
